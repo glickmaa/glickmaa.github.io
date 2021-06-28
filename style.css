@@ -31,9 +31,9 @@ section {
     height: 100vh;
     border: 1px solid black;
     display: flex;
-    justify-content: left;
-    align-items: left;
-    text-align: left;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 #hero .profile-img {
